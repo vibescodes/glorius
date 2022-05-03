@@ -1,0 +1,11 @@
+{
+    "PREFIX": "'",
+    "OWNER_ID": [
+        "701546426135740426"
+    ],
+    "TRUE": "✅",
+    "FALSE": "❌",
+    "LOCKED": "🔒",
+    "MONGO_URL": "mongodb+srv://fandy:giriland11@discordcluster.vtx3h.mongodb.net/Data",
+    "TOKEN": ""
+}
